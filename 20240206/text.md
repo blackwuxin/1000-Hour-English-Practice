@@ -33,6 +33,12 @@ My principles:
 8. Consistently and sustainably invest in the long term—whether in reading, fitness, family, helping friends, or investments.
 
 ## Words
+principle /'prɪnsəpl/
+n. 原则, 原理
+准则, 规范
+操守, 道义
+工作原理
+
 potential /pə'tɛnʃl/
 adj. 潜在的, 有可能的
 n. 潜力, 潜势, 可能性
