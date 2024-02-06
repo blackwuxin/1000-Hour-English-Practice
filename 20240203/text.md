@@ -3,12 +3,17 @@
 ## Chinese
 
 领导力的五项修炼：
-
-反学习，参考答案思维，聚焦，模式化学习，深层迁移。
+- 反学习
+- 参考答案思维
+- 聚焦
+- 模式化学习
+- 深层迁移
 
 学习四问法：
-
-听到什么？想到什么？变成什么？用到哪里？
+- 听到什么？
+- 想到什么？
+- 变成什么?
+- 用到哪里？
 
 今天开始1000 小时英语练习计划，把自己想说的话翻译成英语，听语音，尽可能模仿，大声朗读，重复背诵。
 
@@ -22,18 +27,18 @@
 
 Leadership Mastery involves five key practices:
 
-Unlearning
-Thinking beyond reference answers
-Focus
-Pattern recognition
-Deep transfer
+- Unlearning
+- Thinking beyond reference answers
+- Focus
+- Pattern recognition
+- Deep transfer
 
 Utillize the Four Learning Questions:
 
-What did you hear?
-What did you think?
-What did it turn into?
-Where can you apply it?
+- What did you hear?
+- What did you think?
+- What did it turn into?
+- Where can you apply it?
 
 Embark on a 1000-hour English practice plan. Translate thoughts into English, listen, mimic, read aloud, and repeat.
 
