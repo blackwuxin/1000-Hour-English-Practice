@@ -91,7 +91,7 @@ vt. 强调; 加强语气; 重读
 Cling /klɪŋ/
 vi. 坚持，墨守；紧贴；附着
 
-tenacious /tə'neʃəs/
+tenacious  /təˈneɪʃəs/
 adj. 粘牢的, 粘住的, 抓牢的
 紧握的, 不放松的, 坚决的
 坚持的,顽强的,固执的
@@ -106,9 +106,12 @@ engage /ɪn'ɡedʒ/
 vt. 雇佣；吸引，占用；使订婚；使参加；预定
 vi. 答应，保证；从事；交战；啮合
 
-endure /ɛnˈdʊr/
+endure /ɛnˈdʊr/ 
 vt. 忍耐；容忍
 vi. 忍耐；持续
+
+enduring /ɪnˈdʊrɪŋ/
+adj. 持久的,不朽的
 
 pursuit /pɚ'sut/
 n. 职业，工作；追赶，追求
@@ -116,12 +119,12 @@ n. 职业，工作；追赶，追求
 rely /rɪ'laɪ/
 vi. 信赖；依靠
 
-accumulation /ə,kjʊmjə'leʃən/
+accumulation /əˌkjuːmjəˈleɪʃn/
 n. 积累；积攒；积聚；堆积
 累积量；堆积量
 堆积物；累积物
 
-endeavor /ɛnˈdɛvɚ/
+endeavor /ɪnˈdevər/
 n. 努力；尽力（等于endeavour）
 vi. 努力；尽力（等于endeavour）
 vt. 努力；尽力（等于endeavour）
