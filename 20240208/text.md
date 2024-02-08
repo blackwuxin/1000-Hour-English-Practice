@@ -70,6 +70,9 @@ vt. 分配；给…嫁妆
 foster /ˈfɑːstər/
 v. 促进；助长；培养；鼓励
 
+fostering /'fɔ:stəriŋ/
+哺育
+
 overconfidence /ˌəuvə'kɔnfidəns/
 n. 过分相信,自负
 
