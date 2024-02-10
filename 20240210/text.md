@@ -47,12 +47,20 @@
 - Produce a decent piece of work: write a book, create a tutorial, teach others.
 - Seek public feedback through publication.
 ## Words
+execution /ˌeksɪˈkjuːʃn/
+n. 依法处决
+实行, 执行
+演奏, 技巧
+
 Deliberate  /dɪˈlɪbərət/
 adj. 故意的, 蓄意的
 慎重的, 深思熟虑的
 不慌不忙的, 从容不迫的
 vt. & vi. 仔细考虑
 研讨, 商讨
+
+practice  /ˈpræktɪs/
+n. 练习，实习
 
 Assess  /əˈses/
 vt. 评定；估价；对…征税
@@ -140,6 +148,9 @@ publication /ˌpʌblɪˈkeɪʃn/
 n. 发表, 公布
 出版, 刊行, 发行
 出版物, 书刊
+
+expect  /ɪkˈspekt/
+vt. 预料；预期
 ## English Phonetic Pangram
 Jane, a bright young girl, loves to read books at leisure in rooms or play on a sunny day outdoor here and there with boys. She vowed to buy a red ear dog. She thought it was unique, for sure. She'll feed it dough and cheese bar. She'll love it very much.
 
