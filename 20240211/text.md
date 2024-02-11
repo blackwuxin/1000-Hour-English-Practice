@@ -67,6 +67,10 @@ n. 学期；术语；条款；期限
 direction /dəˈrekʃn/
 n. 方向, 趋向, 趋势, 动向
 
+Achieve/ə'tʃiv/
+vt. 取得, 获得
+实现, 达到, 完成
+
 solid  /ˈsɑːlɪd/
 adj. 固体的
 实心的
@@ -99,6 +103,12 @@ generation /ˌdʒenəˈreɪʃn/
 n. 同时代的人, 一代人, 一代
 产生, 发生
 
+immediate  /ɪˈmiːdiət/
+adj. 立即的，即刻的；紧迫的
+目前的，当前的
+直接的
+最接近的
+
 academic  /ˌækəˈdemɪk/
 adj. 学院的；学术的；理论的
 n. 大学生，大学教师；学者
@@ -113,6 +123,15 @@ n. 突然遇到
 
 assistant /əˈsɪstənt/
 n. 助手，副手，助理；助教
+
+role /rol/
+n. 作用, 职责
+角色
+
+this /ðɪs/
+pron. 这；这个；这里
+adj. 这；本；这个；今
+adv. 这么；这样地
 
 orient  /ˈɔːrient/
 vt. 使熟悉，使适应
