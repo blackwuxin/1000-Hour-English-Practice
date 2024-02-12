@@ -28,6 +28,10 @@ The Truth About Learning: Build and Maintain a Healthy Brain
 8. Everything we do in our lives happens in the cerebral cortex, and our time should be spent building a larger cerebral cortex.
 9. We also need to exercise and maintain its health.
 ## Words
+brain /breɪn/
+n. 脑, 脑髓
+智慧, 智力
+
 cerebral /səˈriːbrəl/
 adj. 大脑的，脑的
 
@@ -35,6 +39,10 @@ cortex /'kɔrtɛks/
 n. <解>(脑或其他器官的)皮层
 植物的表皮
 
+similar  /'sɪməlɚ/
+adj. 相似的
+n. 类似物
+ 
 neuroscience /ˌnʊro'saɪəns/
 n. 神经系统科学（指神经病学、 神经化学等）
 
