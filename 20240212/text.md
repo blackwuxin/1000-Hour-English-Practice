@@ -53,6 +53,9 @@ vt. 显示；露出
 equip /ɪˈkwɪp/
 vt. 装备，配备
 
+equipped /i'kwipt/
+装备的
+
 mechanism /ˈmekənɪzəm/
 n. 机械装置
 构造, 机制
