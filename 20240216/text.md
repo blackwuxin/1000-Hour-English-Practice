@@ -25,6 +25,10 @@ The Truth About Learning: Symbol Systems
 Symbol /ˈsɪmbl/
 n. 符号；象征；标志
 
+essentially  /ɪˈsenʃəli/
+adv. 本质上;根本上
+必需的
+
 illusion  /ɪˈluːʒn/
 n. 错觉, 幻想, 错误观念
 假象
