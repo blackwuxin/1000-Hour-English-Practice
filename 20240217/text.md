@@ -36,12 +36,18 @@ v. 教授（teach的过去分词）
 capable /ˈkeɪpəbl/
 adj. 能干的，能胜任的；有才华的
 
+acquire /əˈkwaɪər/
+vt. 获得, 得到, 养成
+
 Bayesian /'beiziən/
 adj. 贝叶斯定理的
 
 inference /ˈɪnfərəns/
 n. 推论, 推理, 推断
 推断结果, 结论
+
+process /ˈprɑːses/
+vt. 处理；加工
 
 evidence  /ˈevɪdəns/
 n. 证据，证明；迹象；明显
