@@ -57,7 +57,7 @@ Mental /ˈmentl/
 adj. 精神的, 头脑的, 心理的, 智力的
 精神病的
 
-consumes /kənˈsuːm/
+consume /kənˈsuːm/
 vt. 消耗, 消费, 耗尽
 大吃, 大喝
 烧毁, 毁灭
