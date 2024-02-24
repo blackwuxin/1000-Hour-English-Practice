@@ -21,6 +21,17 @@ The Truth of Learning: Model Matching
 7. For instance, what is a circle? A shape where the distance from the center to any point on the circumference is equal.
 8. Science is fundamentally about unambiguous, accurate, and simple abstractions of the entire world.
 ## Words
+model /ˈmɑːdl/
+n. 模型；模范；模特儿；典型；样式
+vt. 模仿；模拟；塑造
+vi. 做模特儿；做模型
+adj. 模范的；作模型用的
+
+matching /'mætʃɪŋ/
+adj. 相配的；相称的；一致的
+n. 匹配
+v. 使…相配（match的ing形式）
+
 recognition /ˌrekəɡˈnɪʃn/
 n. 认识；认出；承认
 〈正〉酬谢，酬劳
@@ -64,7 +75,7 @@ n. 改〔纠〕正
 有待改正
 adj. 改正的，纠正的
 
-concepts /'kɔnsept/
+concept /'kɔnsept/
 n. 概念; 观念; 想法
 
 Due /duː/
