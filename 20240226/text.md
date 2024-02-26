@@ -23,23 +23,23 @@
 ## English
 The Truth About Learning: Improved Construction
 1. All abstract knowledge comprises two elements:
-   1. Clear, precise, and essential models
+   1. Clear, precise /prɪˈsaɪs/, and essential /ɪˈsenʃl/ models
    2. Clear, precise, and essential connections between these models
 2. The brain is a memory-based prediction system.
-3. Learning all abstract knowledge entails the process of acquisition, application, improvement, and construction of models.
-4. The brain only cares about what it can proficiently control.
-5. Effortful models: Adequate repetition within a short timeframe.
-6. For adults, "learning" is essentially akin to thoroughly reading an instruction manual.
-7. Models of knowledge points: Subject, Mechanism, Application.
+3. Learning all abstract knowledge entails/ɪnˈteɪl/ the process of acquisition/ˌækwɪˈzɪʃn/, application, improvement, and construction of models.
+4. The brain only cares about what it can proficiently /prəˈfɪʃnt/ control.
+5. Effortful models: Adequate /ˈædɪkwət/ repetition within a short timeframe.
+6. For adults /ə'dʌlt/, "learning" is essentially/ɪˈsenʃəli/ akin/əˈkɪn/ to thoroughly /ˈθɜːrəli/ reading an instruction manual /ˈmænjuəl/.
+7. Models of knowledge points: Subject, Mechanism /ˈmekənɪzəm/, Application.
 8. Learning model: Study, Practice, Apply, Construct.
-   1. Initiation → Study → Practice → Application → Creation → Success
+   1. Initiation /ɪ,nɪʃɪ'eʃən/ → Study → Practice → Application → Creation → Success
 9. We desire education based on production, which relies on the acquisition of non-innate skills.
    1. Production can only be based on learning.
 10. Any learning triggers further learning.
-11. Nurture the desire for creation and cultivate the ability for creation.
-12. Creation inevitably requires a combination of multiple skills.
-13. Only through creation can learning be maximally and repeatedly triggered. Creation is the ultimate test of learning.
-14. To evaluate a model's quality: A good model should be clear, precise, and essential; if it's not essential, it should be removed.
+11. Nurture/ˈnɜːrtʃər/ the desire for creation /kriˈeɪʃn/ and cultivate/ˈkʌltɪveɪt/ the ability for creation.
+12. Creation inevitably /ɪn'ɛvɪtəbli/ requires a combination of multiple/ˈmʌltɪpl/ skills.
+13. Only through creation can learning be maximally /ˈmæksəməl/ and repeatedly /rɪˈpiːtɪdli/ triggered. Creation is the ultimate test of learning.
+14. To evaluate/ɪˈvæljueɪt/ a model's quality: A good model should be clear, precise, and essential; if it's not essential, it should be removed.
 15. Several sub-models together should remain unchanged.
 ## Words
 Construction
