@@ -35,23 +35,23 @@ The truth about learning: outdated practices
     1. All learning involves building the brain's cortex.
     2. Most learning is simply reading instruction manuals.
     3. All learning actually falls under the same subject, "language arts."
-    4. All scientific knowledge is acquired through the study of "artificial language."
-    5. All learning is essentially the study and application of symbolic systems.
-    6. All learning is just about establishing, reinforcing, and strengthening connections between neurons.
+    4. All scientific/ˌsaɪənˈtɪfɪk/ knowledge is acquired through the study of "artificial language."
+    5. All learning is essentially the study and application of symbolic /sɪmˈbɑːlɪk/ systems.
+    6. All learning is just about establishing /ə'stæblɪʃ/, reinforcing /ˌriɪn'fɔrs/, and strengthening /'streŋθəniŋ/ connections between neurons /'njuərɔn/.
     7. All learning is about constructing a network of knowledge.
-    8. The most effective "excessive learning" is "learning more natural languages."
+    8. The most effective /ɪˈfektɪv/ "excessive /ɪkˈsesɪv/ learning" is "learning more natural languages."
     9. All learning is comprised of seeking, practicing, applying, and creating.
     10. ——There will definitely be more in the future...
-2. Viral characteristics of erroneous learning models:
-    1. Inability to directly experience consequences.
-    2. Tendency to overlook contradictory evidence.
+2. Viral/ˈvaɪrəl/ characteristics /ˌkærəktə'rɪstɪk/ of erroneous /ɪˈroʊniəs/ learning models:
+    1. Inability to directly experience /ɪk'spɪrɪəns/ consequences /ˈkɑːnsɪkwens/.
+    2. Tendency /ˈtendənsi/ to overlook contradictory /ˌkɑːntrəˈdɪktəri/ evidence.
 3. Learning is actually simple; the human brain is a super learning machine.
-4. Most common tactics of mental control:
-    1. Exaggerating difficulties.
-    2. Belittling others.
-    3. Claiming authority.
-    4. Repetitive intimidation.
-5. Neglecting soft skills, excessively focusing on competition and horizontal comparisons.
+4. Most common tactics /'tæktɪks/ of mental /ˈmentl/ control:
+    1. Exaggerating /ɪɡˈzædʒəreɪt/ difficulties.
+    2. Belittling /bɪˈlɪtl/ others.
+    3. Claiming /kleɪm/ authority/əˈθɔːrəti/.
+    4. Repetitive /rɪˈpetətɪv/ intimidation /ɪntɪməˈdeʃən/.
+5. Neglecting/nɪˈɡlekt/ soft skills, excessively focusing on competition/ˌkɑːmpəˈtɪʃn/ and horizontal /ˌhɔːrɪˈzɑːntl/ comparisons.
 6. Parents should transform themselves into learning machines.
     1. Create their own learning models through studying, applying, and creating.
     2. Turn teachers and classmates into learning assistants.
