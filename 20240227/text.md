@@ -41,7 +41,7 @@ The truth about learning: outdated practices
     7. All learning is about constructing a network of knowledge.
     8. The most effective /ɪˈfektɪv/ "excessive /ɪkˈsesɪv/ learning" is "learning more natural languages."
     9. All learning is comprised of seeking, practicing, applying, and creating.
-    10. ——There will definitely be more in the future...
+    10. ——There will definitely/ˈdefɪnətli/ be more in the future...
 2. Viral/ˈvaɪrəl/ characteristics /ˌkærəktə'rɪstɪk/ of erroneous /ɪˈroʊniəs/ learning models:
     1. Inability to directly experience /ɪk'spɪrɪəns/ consequences /ˈkɑːnsɪkwens/.
     2. Tendency /ˈtendənsi/ to overlook contradictory /ˌkɑːntrəˈdɪktəri/ evidence.
