@@ -22,6 +22,10 @@ I need you help.
 
 They caught the thief.
 
+eat /it/ vs. it /ɪt/
+heat /hiːt/ vs. hit /hɪt/ 
+sheep /ʃiːp/ vs. ship /ʃɪp/
+
 ɪ
 
 sit /sɪt/
@@ -36,11 +40,11 @@ This shift doesnt' fit me.
 
 Give me a kiss.
 
-six vs. sex
+six /sɪks/ vs. sex /seks/
 
-pig vs. peg
+pig /pɪɡ/ vs. peg /peɡ/
 
-sit vs. set
+sit /sɪt/ vs. set /set/
 
 ## 知识点
 - 两个音节以上词，字尾有/ɪ/的音标时，念成/i/。
