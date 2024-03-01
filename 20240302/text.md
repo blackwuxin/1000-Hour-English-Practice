@@ -9,6 +9,8 @@
 ## English
 Vowels
 
+/æ/
+
 bad /bæd/
 
 dad /dæd/
@@ -30,12 +32,22 @@ bad/bæd/ vs. bed/bɛd/
 /ɑ/
 
 lock /lɑk/
+
 hot  /hɑt/
+
 stop  /stɑp/
+
 Lock the door,please.
+
 It's very hot today.
+
 Stop crying!
 
 black/blæk/ vs. block/blɑːk/
+
 cap/kæp/ vs. cop/kɑːp/
+
 ax/æks/ vs. ox /ɑːks/
+
+
+
