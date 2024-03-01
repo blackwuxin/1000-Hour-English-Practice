@@ -1,18 +1,18 @@
 # 2024.03.01
 ## Chinese
-元音
-/e/
-/ɛ/
+/eɪ/ 双元音，由 /ɛ/和/ɪ/结合而成。
+
+/ɛ/ == /e/
 ## English
 Vowels
 
-e
+/eɪ/
 
-lake
+lake /leɪk/
 
-make
+make  /meɪk/
 
-later
+later /ˈleɪtər/
 
 He lives by the lake.
 
@@ -20,21 +20,21 @@ I'll make coffee for you.
 
 I'll be back later.
 
-plane
+plane /pleɪn/
 
-main
+main  /meɪn/
 
-train
+train  /treɪn/
 
-saint
+saint  /seɪnt/
 
 ɛ
 
-bed
+bed /bɛd/
 
-let
+let /let/
 
-pen
+pen /pɛn/
 
 You should go to bed.
 
@@ -42,8 +42,8 @@ Let me go.
 
 Can I use your pen?
 
-bed vs. bid
+bed/bɛd/ vs. bid /bɪd/
 
-letter vs. litter
+letter/ˈletər/ vs. litter /'lɪtɚ/
 
-lever vs. liver
+lever/ˈlevər/ vs. liver /ˈlɪvər/
