@@ -8,7 +8,9 @@
 
 ## English
 Vowels
- 
+
+/ʌ/
+
 bus  /bʌs/
 
 money  /ˈmʌni/
@@ -27,6 +29,7 @@ color /ˈkʌlər/ vs. collar /ˈkɑːlər/
 
 hut /hʌt/ vs. hot /hɑt/
 
+/ə/
 
 ago  /ə'ɡo/
 
