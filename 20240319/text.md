@@ -12,6 +12,6 @@ Think about what you want to say, it can be about work or life.
 
 When it comes to assigning tasks, here's a breakdown of the process:
 
-1. Set clear goals: Define the objectives and outcomes you want to achieve.
-2. Break down the tasks: Divide the project into smaller, manageable steps and monitor progress for each key milestone.
-3. Provide feedback and establish acceptance criteria: Regularly communicate with the person responsible, offer guidance, and establish clear standards for evaluating the completed task.
+1. Set the goal.
+2. Break it down, track every key step.
+3. Get feedback, have standards for checking off.
