@@ -1,0 +1,17 @@
+# 2024.03.12
+## Chinese
+思考下自己想说的话，可以是关于工作的，关于生活的。
+
+如何给别人安排任务？
+1. 制定目标。
+2. 拆分任务，每一个关键步骤跟进进度。
+3. 有反馈，验收标准。
+
+## English
+Think about what you want to say, it can be about work or life.
+
+When it comes to assigning tasks, here's a breakdown of the process:
+
+1. Set clear goals: Define the objectives and outcomes you want to achieve.
+2. Break down the tasks: Divide the project into smaller, manageable steps and monitor progress for each key milestone.
+3. Provide feedback and establish acceptance criteria: Regularly communicate with the person responsible, offer guidance, and establish clear standards for evaluating the completed task.
